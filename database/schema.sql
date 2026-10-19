@@ -1,0 +1,1 @@
+CREATE TABLE pacientes (id INT PRIMARY KEY, nombre VARCHAR(100));
